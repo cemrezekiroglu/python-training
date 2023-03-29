@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[3]:
-
-
 print ("How many seconds are there in a year?")
 year= int(input("Please type a year:"))
 if (year%4) == 0:
